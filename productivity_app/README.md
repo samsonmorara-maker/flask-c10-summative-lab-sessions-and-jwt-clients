@@ -33,6 +33,13 @@ The application uses JWT authentication and ensures users can only access and mo
 
 ## 1. Clone the repository
 
-```bash
-git clone <your-repository-url>
+
+git clone https://github.com/samsonmorara-maker/flask-c10-summative-lab-sessions-and-jwt-clients.git
 cd productivity_app
+
+## 2.Install dependencies
+pipenv shell
+## 3.Running the Application
+flask --app app run
+## author 
+developed by Manoti Samson
